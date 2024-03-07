@@ -1,0 +1,8 @@
+git init
+git add file.txt
+git branch
+git branch -M main
+git branch
+git remote add D-pt_1 "https://github.com/WalidBenTouhami/D-p-t_1"
+
+
